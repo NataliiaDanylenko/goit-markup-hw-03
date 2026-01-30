@@ -273,7 +273,6 @@ margin-bottom: 72px;
     text-align: center;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    margin-top: 32px;
     margin-bottom: 8px;
 }
 
@@ -284,7 +283,6 @@ margin-bottom: 72px;
     text-align: center;
     letter-spacing: 0.02em;
     color: #434455;
-    margin-bottom: 32px;
 }
 
 /* Section 4 */
@@ -314,7 +312,7 @@ margin-bottom: 72px;
 display: flex;
 flex-wrap: wrap;
 column-gap: 24px;
-    ow-gap: 48px;
+row-gap: 48px;
 }
 
 .portfolio-item {
@@ -342,7 +340,6 @@ column-gap: 24px;
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 8px;
-    margin-top: 32px;
 }
 
 .portfolio-text {
@@ -352,8 +349,6 @@ column-gap: 24px;
     color: #434455;
     font-size: 16px;
     margin-top: 8px;
-    margin-bottom: 32px;
-    
 }
 
 /* .portfolio-item:hover {
